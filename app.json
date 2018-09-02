@@ -1,5 +1,7 @@
 {
   "expo": {
-    "sdkVersion": "27.0.0"
+    "sdkVersion": "27.0.0",
+    "FacebookAppID": "2212989722278704",
+    "facebookDisplayName": "tinderReactNative"
   }
 }
