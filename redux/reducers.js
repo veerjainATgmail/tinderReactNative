@@ -1,6 +1,6 @@
 export default (reducers = (
   state = {
-    user: "",
+    loggedIn: false,
   },
   action
 ) => {
